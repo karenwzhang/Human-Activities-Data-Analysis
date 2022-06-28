@@ -4,6 +4,7 @@ Dataset:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Files:
+
 1.Codebook.md: describes the variables, the data, and any transformations or work that I performed to clean up the data
 
 2.run_analysis.R: that performs the following:
