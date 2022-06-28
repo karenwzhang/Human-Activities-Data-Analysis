@@ -1,6 +1,8 @@
 Getting and Cleaning Data Project  # Human-Activities-Data-Analysis
+
 Dataset:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 Files:
 Codebook.md: describes the variables, the data, and any transformations or work that I performed to clean up the data
 run_analysis.R: that performs the following:
