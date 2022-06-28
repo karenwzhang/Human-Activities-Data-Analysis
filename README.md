@@ -4,9 +4,9 @@ Dataset:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Files:
-Codebook.md: describes the variables, the data, and any transformations or work that I performed to clean up the data
+1.Codebook.md: describes the variables, the data, and any transformations or work that I performed to clean up the data
 
-run_analysis.R: that performs the following:
+2.run_analysis.R: that performs the following:
     
     Merges the training and the test sets to create one data set.
     
@@ -18,4 +18,4 @@ run_analysis.R: that performs the following:
     
     From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-FinalResult.txt: the exported final data after going through all the steps described above.
+3.FinalResult.txt: the exported final data after going through all the steps described above.
